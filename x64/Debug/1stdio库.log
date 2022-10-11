@@ -1,0 +1,5 @@
+﻿  1stdio库.cpp
+D:\❁C_Language\C基本库学习\1stdio库\1stdio库.cpp(22,6): warning C4101: “del”: 未引用的局部变量
+D:\❁C_Language\C基本库学习\1stdio库\1stdio库.cpp(116,7): warning C4101: “buffer”: 未引用的局部变量
+D:\❁C_Language\C基本库学习\1stdio库\1stdio库.cpp(128,6): warning C4101: “tests”: 未引用的局部变量
+  1stdio库.vcxproj -> D:\❁C_Language\C基本库学习\1stdio库\x64\Debug\1stdio库.exe
